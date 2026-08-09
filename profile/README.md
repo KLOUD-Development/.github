@@ -17,9 +17,10 @@ Through the years of independent developing, the founder built upon his expertis
 
 
 ## Our products
-Every line of code, every push, every commit, every error code. All by one person formed into an organization for you. Start using these open-source software [**here!**](https://github.com/fwlix0) <br> *The images are currently only placeholders until public releases of the products are pushed out.*
+Every line of code, every push, every commit, every error code. All by one person formed into an organization for you. Start using these open-source software [**here!**](https://github.com/fwlix0).
 
 ## LPRx 
+*The image is currently only a placeholder until public releases of the product are pushed out.*
 |![NatineScript logo](https://raw.githubusercontent.com/Glassrocket/valor-assets/main/nativescript-logo.png) | [**LRPx**](https://valor-software.com/blog/Debugging_NgRx_in_NativeScript_with_Redux_DevTools)|
 |--|--|
 
@@ -30,6 +31,7 @@ We are official partners and contributors to [**NativeScript**](https://nativesc
 -->
 
 ## CountUp
+*The image is currently only a placeholder until public releases of the product are pushed out.*
 |![Nest.js logo](https://raw.githubusercontent.com/Glassrocket/valor-assets/main/nest-logo.png) | [**CountUp**](https://nestjs.com) |
 |--|--|
 
