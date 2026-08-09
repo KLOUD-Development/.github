@@ -23,7 +23,7 @@ Every line of code, every push, every commit, every error code. All by one perso
 |![NatineScript logo](https://raw.githubusercontent.com/Glassrocket/valor-assets/main/nativescript-logo.png) | [**LRPx**](https://valor-software.com/blog/Debugging_NgRx_in_NativeScript_with_Redux_DevTools)|
 |--|--|
 
-Information **SOON** available!
+**LPRx**, a license plate reader tailormade for Swedish car enthusiasts. It's main purpose is to identify cars with a simple camera application. Take your phone out, open the **LPRx** app, point it at the license plate and *BOOM*. Make, model and color. Suspected law enforcement vehicle? **LPRx** will tell you if it is!
 
 <!--
 We are official partners and contributors to [**NativeScript**](https://nativescript.org/). Having [**Nathan Walker**](https://twitter.com/wwwalkerrun), the technology evangelist among partners, helps us be ahead of the curve and shape the future of NS.
